@@ -1,1 +1,2 @@
-# automated-blood-group-detection-using-image-processing
+# Blood-group-Detection-using-python
+Project for detecting blood group using image processing in python
